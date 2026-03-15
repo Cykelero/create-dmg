@@ -60,7 +60,7 @@ private enum Layout {
 
 	Determined empirically to match the original ImageMagick output.
 	*/
-	static let verticalOffsetFactor = 0.063
+	static let verticalOffsetFactor = 0.043
 }
 
 // MARK: - Main
